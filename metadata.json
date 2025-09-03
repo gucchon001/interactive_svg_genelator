@@ -1,0 +1,5 @@
+{
+  "name": "Interactive SVG Generator v1.2",
+  "description": "An interactive, conversational application that generates SVG diagrams for educational content based on user prompts. Users can preview the SVG, copy the code, and export the preview as a PNG.",
+  "requestFramePermissions": []
+}
